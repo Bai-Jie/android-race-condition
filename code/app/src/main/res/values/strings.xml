@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Race Condition</string>
+    <string name="action_settings">Settings</string>
+</resources>
